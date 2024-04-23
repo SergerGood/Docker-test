@@ -1,1 +1,1 @@
-debian:bullseye-slim
+FROM debian:bullseye-slim
